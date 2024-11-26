@@ -1,4 +1,10 @@
-# Skeleton build.sh script for new package.
+# Skel
+
+
+
+eton b
+
+uild.sh script for new package.
 # For reference about available fields, check the Termux Developer's Wiki page:
 # https://github.com/termux/termux-packages/wiki/Creating-new-package
 

@@ -1,6 +1,7 @@
 # Contributing
 
-Termux is an open source application and it is built on users' contributions.
+Term
+ux is an open source application and it is built on users' contributions.
 However, most of work is done by Termux maintainers on their spare time and
 therefore only priority tasks are being completed.
 
